@@ -1,0 +1,2 @@
+E:\Coding_Projects\Github\SampleApplication\SampleApplication\SampleApplication\x64\Debug\SampleApplication.exe
+E:\Coding_Projects\Github\SampleApplication\SampleApplication\SampleApplication\x64\Debug\SampleApplication.pdb
